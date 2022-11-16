@@ -1,0 +1,18 @@
+Filled container.
+Container contains 2 elements.
+1: It is Object-oriented programming language: Inheritance is single, Year of development = 1998, The number of references of this language on the Internet = 123
+The number of years that have passed since the year the language was created = 24
+2: Error reading data! Expected other values in the string.
+
+Sorted Linked List.
+Container contains 2 elements.
+1: It is Object-oriented programming language: Inheritance is single, Year of development = 1998, The number of references of this language on the Internet = 123
+The number of years that have passed since the year the language was created = 24
+2: Error reading data! Expected other values in the string.
+
+Only Procedural languages.
+1: 
+2: 
+
+Empty container.
+Container contains 0 elements.
